@@ -16,4 +16,5 @@ $('body').on('click', '.s_menu_icon', function(){
       $('.s_menu_icon').animate({"border-radius" : "10"}, {duration:500, queue:false});
     }, 100);
   }
+  
 });
